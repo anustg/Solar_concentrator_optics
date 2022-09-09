@@ -2,7 +2,7 @@
 
 # Introduction
 
-This repository contains Python scripts for photogremmetry ...
+This repository contains Python scripts for photogrammetry ...
 
 (To be added)
 
