@@ -5,14 +5,14 @@ import setuptools
 with open("README.md", "r") as f:
     long_description = f.read()
 
-setuptools.setup(name='pgproc'
+setuptools.setup(name='SCOAP'
 	,version='0.0.1'
 	,author=''
 	,author_email=''
-	,description="Scripts for photogrammetry pre-and-post processing"
+	,description="Scripts for analysis of solar concentrator optics"
 	,long_description=long_description
 	,long_description_content_type="text/markdown"
-	,url='https://github.com/anustg/photogrammetry-processing'
+	,url='https://github.com/anustg/Solar_concentrator_optics'
 	,packages=setuptools.find_packages()
 	,license="GPL v3.0 or later, see LICENSE file"
 	,classifiers=[
